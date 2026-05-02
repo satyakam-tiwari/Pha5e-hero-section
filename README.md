@@ -4,7 +4,7 @@ This is my **first front-end web project** where I created a **Hero Section**.
 It is built using **HTML, CSS, JavaScript, and Bootstrap**.  
 
 ## 🌐 Live Website
-[Visit Website](https://satyakam180.github.io/Pha5e-hero-section/) 
+[Visit Website](https://satyakam-tiwari.github.io/Pha5e-hero-section/) 
 ---
 
 ## 🚀 Features
